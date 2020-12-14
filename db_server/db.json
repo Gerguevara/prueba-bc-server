@@ -1,0 +1,121 @@
+{
+  "clientes": [
+    {
+      "nombre": "Miguel",
+      "apellidos": "Guevara",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "nombre": "Migule",
+      "apellidos": "Salgado"
+    },
+    {
+      "id": "4",
+      "nombre": "Raymundo",
+      "apellidos": "Romero"
+    },
+    {
+      "id": "5",
+      "nombre": "Debora",
+      "apellidos": "Soza"
+    },
+    {
+      "id": "6",
+      "nombre": "Mario",
+      "apellidos": "Valencia"
+    },
+    {
+      "id": "7",
+      "nombre": "Liseth",
+      "apellidos": "Gomez"
+    },
+    {
+      "nombre": "Mario",
+      "apellidos": "Guardado",
+      "id": "8"
+    },
+    {
+      "id": "9",
+      "nombre": "Debora",
+      "apellidos": "Vasquez"
+    },
+    {
+      "id": "10",
+      "nombre": "Alexander",
+      "apellidos": "Guardado"
+    },
+    {
+      "id": "12",
+      "nombre": "Maria",
+      "apellidos": "Nuñez"
+    },
+    {
+      "id": "13",
+      "nombre": "Tannya",
+      "apellidos": "Guardado"
+    },
+    {
+      "id": "15",
+      "nombre": "Braulio",
+      "apellidos": "nuñez"
+    },
+    {
+      "nombre": "Alejandro",
+      "apellidos": "Guevara",
+      "id": "16"
+    }
+  ],
+  "ordenes": [
+    {
+      "idOrden": 976,
+      "idProducto": "2",
+      "idCliente": "3",
+      "cantidad": 8,
+      "fecha": "2020-12-14T04:58:12.961Z",
+      "id": "3TbILmm"
+    },
+    {
+      "idOrden": 879,
+      "idProducto": "3",
+      "idCliente": "4",
+      "cantidad": 9,
+      "fecha": "2020-12-14T04:59:47.864Z",
+      "id": "bvW9thJ"
+    },
+    {
+      "idOrden": 576,
+      "idProducto": "5",
+      "idCliente": "5",
+      "cantidad": 5,
+      "fecha": "2020-12-14T14:05:37.562Z",
+      "id": "jE165NW"
+    }
+  ],
+  "productos": [
+    {
+      "id": "2",
+      "nombre": "Laptop Asus",
+      "descripcion": "Powerbook",
+      "precio": "700"
+    },
+    {
+      "id": "3",
+      "nombre": "Smartphone Samsung",
+      "descripcion": "Smartphone gama media",
+      "precio": "190"
+    },
+    {
+      "id": "4",
+      "nombre": "Ipad 7",
+      "descripcion": "Apple tablet",
+      "precio": "800"
+    },
+    {
+      "id": "5",
+      "nombre": "Monitor BenQ",
+      "descripcion": "Monito 4k",
+      "precio": "350"
+    }
+  ]
+}
